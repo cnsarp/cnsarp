@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - My name is Cansu and I'm a Data Science bootcamp graduate interested in all things related with Data Analytics/Science. 
-Before transitioning into the world of data, I worked as a Production Manager/Engineer in the laser industry. ⚡💡
-- 🔭 Currently, I’m contributing to an Omdena Project focused on identifying urban green spaces using deep learning techniques. 
+- Before transitioning into the world of data, I worked as a Production Manager/Engineer in the laser industry. ⚡💡
+- 🔭 Currently, I’m contributing to an Omdena [Project](https://www.omdena.com/chapter-challenges/standardized-comparision-of-urban-green-space-mapping-through-remote-sensing) focused on identifying urban green spaces using deep learning techniques. 
   My team is responsible for implementing the U-Net model with InAmp for image segmentation.
 - 🌱 I'm also diving deeper into Convolutional Neural Networks (CNNs), exploring different architectures to expand my expertise.
 
