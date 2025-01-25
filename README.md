@@ -6,7 +6,7 @@ Before transitioning into the world of data, I worked as a Production Manager/En
   My team is responsible for implementing the U-Net model with InAmp for image segmentation.
 - 🌱 I'm also diving deeper into Convolutional Neural Networks (CNNs), exploring different architectures to expand my expertise.
 
-For more, check my [LinkedIn]([http://url.com](https://www.linkedin.com/in/cansu-tontsch-057307102/))
+For more, check my [LinkedIn]((https://www.linkedin.com/in/cansu-tontsch-057307102/))
 <!--
 **cnsarp/cnsarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
