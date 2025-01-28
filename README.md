@@ -6,7 +6,7 @@
   My team is responsible for implementing the U-Net model with InAmp for image segmentation.
 - 🌱 I'm also learning more details about CNN with this great course on [Coursera](https://www.coursera.org/learn/convolutional-neural-networks)
 
-For more, check my [LinkedIn](https://www.linkedin.com/in/cansu-tontsch-057307102/)
+
 <!--
 **cnsarp/cnsarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
