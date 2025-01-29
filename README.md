@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- My name is Cansu and I'm a Data Science bootcamp graduate interested in all things related with Data Analytics/Science. 
+- My name is Cansu and I'm a Data Science bootcamp graduate interested in all things related with Data Analytics/Science.
+    - My team created this Streamlit App at the end of the bootcamp [Link](https://musicrecommendation-app.streamlit.app/)
 - Before transitioning into the world of data, I worked as a Production Manager/Engineer in the laser industry. ⚡💡
 - 🔭 Currently, I’m contributing to an Omdena [Project](https://www.omdena.com/chapter-challenges/standardized-comparision-of-urban-green-space-mapping-through-remote-sensing) focused on identifying urban green spaces using deep learning techniques. 
   My team is responsible for implementing the U-Net model with InAmp for image segmentation.
